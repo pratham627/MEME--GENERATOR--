@@ -3,5 +3,6 @@ uvicorn
 python-multipart
 Pillow
 jinja2
-gunicorn
+
+
 
